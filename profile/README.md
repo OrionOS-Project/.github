@@ -1,5 +1,3 @@
-![banner](https://github.com/OrionOS-Project/.github/blob/main/profile/banner/orion-organization-profile.png)
-
 <h1 align="center">OrionOS Project</h1>
 
 <p> It is an AOSP (Android Open Source Project) based project that is a continuation of LineageOS that prioritizes performance and minimalist design, provides sufficient feature requirements for long-term use and creates a healthy community environment.
