@@ -17,3 +17,4 @@
 - [**crDroid**](https://github.com/crdroidandroid)
 - [**RisingTechOSS**](https://github.com/RisingTechOSS)
 - [**Evolution X**](https://github.com/Evolution-X)
+- [**DerpFest AOSP**](https://github.com/DerpFest-AOSP)
